@@ -1,0 +1,1 @@
+Intentionally vulnerable dependencies (multilingual)
